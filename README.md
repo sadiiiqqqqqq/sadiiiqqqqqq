@@ -1,20 +1,19 @@
 ## Hi there 👋
 
 # Hello, I'm Sadiq
-
 Networking | Linux | Python | Server | CCNA | DevOps Learner | 
 
-# Hello, I'm Sadiq
-
 ## About Me
-Learning DevOps and network automation.
+I’m a learner focused on Linux, networking, and Python-based automation. My interests lie in understanding how infrastructure works and building tools that automate system and network operations.
 
-## Skills
-- Linux
-- Python
-- Networking (CCNA)
-- Git
-- Automation
+Currently exploring the intersection of network engineering, Linux systems, and DevOps practices through hands-on projects and experimentation.
+
+## 🛠 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge)
 
 ## Current Projects
 - Network Automation Generator
