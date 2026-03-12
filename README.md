@@ -18,8 +18,13 @@ Currently exploring the intersection of network engineering, Linux systems, and 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge)
 
-## Current Projects
-- Network Automation Generator
-- Linux Server Lab
+## 🚀 Featured Project
+
+### Network Automation Generator
+
+Python tool for generating router configuration automatically based on user input.
+
+🔗 Repository:
+https://github.com/sadiiiqqqqqq/network-automation-generator
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiiiqqqqqq&show_icons=true)
