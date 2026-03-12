@@ -1,5 +1,5 @@
 ## Hi there 👋
-![profile pic](IMG-20260208-WA0014.jpg)
+![profile pic](IMG_20260312_125112.jpg)
 
 # Hello, I'm Sadiq
 Networking | Linux | Python | Server | CCNA | DevOps Learner | 
