@@ -19,4 +19,4 @@ Currently exploring the intersection of network engineering, Linux systems, and 
 - Network Automation Generator
 - Linux Server Lab
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiiiqqqqqq&show_icons=true)
