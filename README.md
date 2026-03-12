@@ -20,11 +20,16 @@ Currently exploring the intersection of network engineering, Linux systems, and 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge)
 
+
 ## 🚀 Featured Project
 
 #### [Network Automation Generator](https://github.com/sadiiiqqqqqq/Network-intent-automation)
 
 Python tool for generating router configuration automatically based on user input.
+that project reduced the manual workload and decrease the chances or Human error by automating task such as (IP assigment, SSH configuration, Routing, Port security, untrusted port blocking such as HHTP and Telnet etc... 
+I would be glad if you modify the code on your own and add some more commands specification and more networking device support such as Switch -- 
+- Corrently I am working on it.
+
 
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiiiqqqqqq&show_icons=true)
