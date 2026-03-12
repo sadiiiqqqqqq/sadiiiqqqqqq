@@ -20,11 +20,9 @@ Currently exploring the intersection of network engineering, Linux systems, and 
 
 ## 🚀 Featured Project
 
-### Network Automation Generator
+#### [Network Automation Generator](https://github.com/sadiiiqqqqqq/Network-intent-automation)
 
 Python tool for generating router configuration automatically based on user input.
 
-🔗 Repository:
-https://github.com/sadiiiqqqqqq/network-automation-generator
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiiiqqqqqq&show_icons=true)
