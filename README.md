@@ -1,8 +1,9 @@
 ## Hi there 👋
 ![profile pic](IMG_20260312_125112.jpg)
 
-# Hello, I'm Sadiq
+#        Hello, I'm Sadiq
 Networking | Linux | Python | Server | CCNA | DevOps Learner | 
+![Linkdin](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/mohd-sadiq)
 
 ## About Me
 I’m a learner focused on Linux, networking, and Python-based automation. My interests lie in understanding how infrastructure works and building tools that automate system and network operations.
