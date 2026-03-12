@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**sadiiiqqqqqq/sadiiiqqqqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Sadiq
 
-Here are some ideas to get you started:
+Networking | Linux | Python | Server | CCNA | DevOps Learner | 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello, I'm Sadiq
+
+## About Me
+Learning DevOps and network automation.
+
+## Skills
+- Linux
+- Python
+- Networking (CCNA)
+- Git
+- Automation
+
+## Current Projects
+- Network Automation Generator
+- Linux Server Lab
+
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
