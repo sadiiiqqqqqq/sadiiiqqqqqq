@@ -1,5 +1,7 @@
 ## Hi there 👋
-![profile pic](IMG_20260312_125112.jpg)
+<p align="center">
+<img src="https://github.com/sadiiiqqqqqq/sadiiiqqqqqq/blob/main/IMG_20260312_125112.jpg" width="150"/>
+</p>
 
 #        Hello, I'm Sadiq
 Networking | Linux | Python | Server | CCNA | DevOps Learner | 
