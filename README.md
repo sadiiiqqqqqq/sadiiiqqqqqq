@@ -1,6 +1,6 @@
 ## Hi there 👋
-<p align="center">
-<img src="https://github.com/sadiiiqqqqqq/sadiiiqqqqqq/blob/main/IMG_20260312_125112.jpg" width="150"/>
+<p>
+<img src="https://github.com/sadiiiqqqqqq/sadiiiqqqqqq/blob/main/IMG_20260312_125112.jpg" width="200"/>
 </p>
 
 #        Hello, I'm Sadiq
